@@ -3,7 +3,7 @@
  */
 
 
-import { whenReady, $ }            from './utils/dom';
+import { whenReady }            from './utils/dom';
 
 import { showOwnedComments }    from './communications/comment';
 import { showOwnedPosts }       from './communications/post';
@@ -37,6 +37,7 @@ import { hideStaffTools }       from './staffhider';
 import { pollOptionCreator }    from './poll';
 import { warnAboutPMs }         from './pmwarning';
 import { imageSourcesCreator }  from './sources';
+import { loadBrowserPonies }    from './browserponies';
 
 whenReady(() => {
 
@@ -71,9 +72,6 @@ whenReady(() => {
   pollOptionCreator();
   warnAboutPMs();
   imageSourcesCreator();
+  loadBrowserPonies();
 
-  const ticker = $('.game__progress_ticker');
-  if (ticker) {
-    ticker.style.left = `${ticker.dataset.percentage}%`;
-  }
 });

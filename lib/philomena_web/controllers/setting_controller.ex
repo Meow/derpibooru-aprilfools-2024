@@ -36,6 +36,7 @@ defmodule PhilomenaWeb.SettingController do
 
   defp update_local_settings(conn, user_params) do
     conn
+    |> set_cookie(user_params, "scrooge", "scrooge")
     |> set_cookie(user_params, "hidpi", "hidpi")
     |> set_cookie(user_params, "webm", "webm")
     |> set_cookie(user_params, "serve_webm", "serve_webm")

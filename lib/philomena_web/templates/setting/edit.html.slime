@@ -143,6 +143,10 @@ h1 Content Settings
     .block__tab class=local_tab_class(@conn) data-tab="local"
       .block.block--fixed.block--warning Settings on this tab are saved in the current browser. They are independent of your login.
       .field
+        => label f, :scrooge, "Disable event"
+        => checkbox f, :scrooge, checked: @conn.cookies["scrooge"] == "true"
+        .fieldlabel: i Turn off display of browser ponies.
+      .field
         => label f, :hidpi, "Serve HiDPI thumbnails"
         => checkbox f, :hidpi, checked: @conn.cookies["hidpi"] == "true"
         .fieldlabel: i Use high quality thumbnails on displays with a high pixel density. Requires more data than regular thumbnails.
