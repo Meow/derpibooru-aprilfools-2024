@@ -2451,7 +2451,7 @@ const BrowserPonies = (function () {
 
 	EffectInstance.prototype = extend(new Instance(), {
 		createImage: function (src) {
-			var img = tag(Gecko || Opera ? 'img' : 'iframe', {
+			var img = tag(true /* Gecko || Opera */ ? 'img' : 'iframe', {
 				src: src,
 				draggable: 'false',
 				style: {
