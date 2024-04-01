@@ -1239,6 +1239,26 @@ const ponyIni = [
   {
       "baseurl": "ponies/zipporwhill%27s%20father/",
       "ini": "Name,\"Zipporwhill's Father\"\nCategories,\"supporting ponies\",stallions,pegasi\nBehavior,stand,0.3,20,10,0,bigpegasus-idle-right.gif,bigpegasus-idle-left.gif,MouseOver,,,,False,0,0,,True,,,\"45,50\",\"0,0\",False,0,Fixed\nBehavior,trot,0.3,20,10,2.6,bigpegasus-trot-right.gif,bigpegasus-trot-left.gif,Diagonal_horizontal,,,,False,0,0,,True,,,\"54,54\",\"43,54\",False,0,Fixed\n"
+  },
+  {
+    "baseurl": "ponies/hitch%20trailblazer/",
+    "ini": "Name,\"Hitch Trailblazer\"\nCategories,\"supporting ponies\",stallions,\"earth ponies\",G5\nBehavior,stand,0.1,15,5,0,hitch-idle-right.gif,hitch-idle-left.gif,MouseOver,,,,False,0,0,,True,,,\"42,44\",\"35,44\",False,0,Fixed\nBehavior,fly,0.15,10,4,3.2,hitch-trot-right.gif,hitch-trot-left.gif,Diagonal_Only,,,,False,0,0,,True,,,\"42,46\",\"37,46\",False,0,Fixed\nBehavior,walk,0.25,15,4,3,hitch-trot-right.gif,hitch-trot-left.gif,Horizontal_Only,,,,False,0,0,,True,,,\"42,46\",\"37,46\",False,0,Fixed\nSpeak,\"Unnamed #1\",\"What is it with me and critters? I'm like a magnet to them.\",,False,0\nSpeak,\"Unnamed #2\",\"The law is the law, and I'm here to uphold it and keep everypony safe.\",,False,0\nSpeak,\"Unnamed #3\",\"Man the Splat-a-pult! Activate the unicorn trap! Pick up that litter!\",,False,0\nSpeak,\"Unnamed #4\",\"You may now cheer.\",,False,0\nSpeak,\"Unnamed #5\",\"This one's a job for Hitch and Hitch only.\",,False,0\nSpeak,\"Unnamed #6\",\"I will not eat! I will not sleep! Well, maybe a quick nap and snack.\",,False,0\nSpeak,\"Unnamed #7\",\"Oh. Hehe. Thank you. Thank you.\",,False,0\n"
+  },
+  {
+    "baseurl": "ponies/izzy%20moonbow/",
+    "ini": "Name,\"Izzy Moonbow\"\nCategories,\"supporting ponies\",mares,unicorns,G5\nBehavior,stand,0.1,15,5,0,izzy-idle-right.gif,izzy-idle-left.gif,MouseOver,,,,False,0,0,,True,,,\"42,44\",\"43,44\",False,0,Fixed\nBehavior,fly,0.15,10,4,3,izzy-trot-right.gif,izzy-trot-left.gif,Diagonal_Only,,,,False,0,0,,True,,,\"42,46\",\"41,46\",False,0,Fixed\nBehavior,walk,0.25,15,4,2.8,izzy-trot-right.gif,izzy-trot-left.gif,Horizontal_Only,,,,False,0,0,,True,,,\"42,46\",\"41,46\",False,0,Fixed\nSpeak,\"Unnamed #1\",\"Hi, new friend! My name's Izzy!\",,False,0\nSpeak,\"Unnamed #2\",\"Do Earth ponies also like staring contests? Hmmmmmmmmm... Ah! You win! I blinked!\",,False,0\nSpeak,\"Unnamed #3\",\"Her sparkle is so bright right now!\",,False,0\nSpeak,\"Unnamed #4\",\"A glow-up? Honey, you came to the right cottage.\",,False,0\nSpeak,\"Unnamed #5\",\"We're all in this together, right?\",,False,0\n"
+  },
+  {
+    "baseurl": "ponies/pipp%20petals/",
+    "ini": "Name,\"Pipp Petals\"\nCategories,mares,pegasi,\"main ponies\",\" G5\"\nBehavior,Idle,0.2,10,4,0,pipp-idle-right.gif,pipp-idle-left.gif,None,,,,False,0,0,,False,,,\"41,42\",\"40,46\",False,0,Fixed\nBehavior,Trot,0.5,12,5,2.8,pipp-trot-right.gif,pipp-trot-left.gif,Diagonal_horizontal,,,,False,0,0,,False,,,\"41,44\",\"40,48\",False,0,Fixed\nBehavior,Fly,0.3,10,4,3.2,pipp-fly-right.gif,pipp-fly-left.gif,All,,,,False,0,0,,False,,,\"41,46\",\"40,50\",False,0,Fixed\nSpeak,001,\"Big shout out to all my fans, the Pippsqueaks!\",,False,0\nSpeak,002,Pipp-Pipp-hooray!,,False,0\nSpeak,003,\"My sparkle is aquamarine? That's, like, my sixth favorite color!\",,False,0\nSpeak,004,\"I so wish I had live-streamed that!\",,False,0\nSpeak,005,\"Yay, makeovers! I love makeovers!\",,False,0\nSpeak,006,Stunning!,,False,0\nSpeak,007,Gorgeoooous!,,False,0\nSpeak,008,\"I can't wait to debut my new song!\",,False,0\nSpeak,009,\"You feelin' it?\",,False,0\nSpeak,010,Showtiiiiiime!,,False,0\n"
+  },
+  {
+    "baseurl": "ponies/sunny%20starscout/",
+    "ini": "Name,\"Sunny Starscout\"\nCategories,\"supporting ponies\",mares,\"earth ponies\",G5\nBehavior,stand,0.1,15,5,0,sunny-idle-right.gif,sunny-idle-left.gif,MouseOver,,,,False,0,0,,True,,,\"42,44\",\"39,44\",False,0,Fixed\nBehavior,fly,0.15,10,4,3,sunny-trot-right.gif,sunny-trot-left.gif,Diagonal_Only,,,,False,0,0,,True,,,\"42,46\",\"41,46\",False,0,Fixed\nBehavior,walk,0.25,15,4,2.8,sunny-trot-right.gif,sunny-trot-left.gif,Horizontal_Only,,,,False,0,0,,True,,,\"42,46\",\"0,0\",False,0,Fixed\nSpeak,\"Unnamed #1\",\"Peace with Pegasi! Unity with unicorns!\",,False,0\nSpeak,\"Unnamed #2\",\"Do unicorns really live in trees? Do they eat pizza?\",,False,0\nSpeak,\"Unnamed #3\",\"We'll do our part. Hoof to heart.\",,False,0\nSpeak,\"Unnamed #4\",\"I think you'll find I'm average height.\",,False,0\nSpeak,\"Unnamed #5\",\"I don't play. I win.\",,False,0\n"
+  },
+  {
+    "baseurl": "ponies/zipp%20storm/",
+    "ini": "Name,\"Zipp Storm\"\nCategories,mares,pegasi,\"main ponies\",\" G5\"\nBehavior,Idle,0.25,10,4,0,zipp-idle-right.gif,zipp-idle-left.gif,None,,,,False,0,0,,False,,,\"0,0\",\"38,46\",False,0,Fixed\nBehavior,Trot,0.5,12,5,3,zipp-trot-right.gif,zipp-trot-left.gif,Diagonal_horizontal,,,,False,0,0,,False,,,\"0,0\",\"37,48\",False,0,Fixed\nBehavior,Fly,0.4,10,4,3.6,zipp-fly-right.gif,zipp-fly-left.gif,All,,,,False,0,0,,False,,,\"0,0\",\"39,50\",False,0,Fixed\nSpeak,001,\"Zipp. Just... call me Zipp.\",,False,0\nSpeak,002,\"I can be pretty sneaky when I want to be.\",,False,0\nSpeak,003,\"Okay, well, this day just got a whole lot more interesting.\",,False,0\nSpeak,004,\"That was sad to watch.\",,False,0\n"
   }
 ];
 
@@ -1516,7 +1536,12 @@ const ponyNames = {
     "zecora": "zecora",
     "zephyr breeze": "zephyr breeze",
     "zippoorwhill": "zipporwhill",
-    "zippoorwhill's father": "zipporwhill's father"
+    "zippoorwhill's father": "zipporwhill's father",
+    "hitch trailblazer": "hitch trailblazer",
+    "izzy moonbow": "izzy moonbow",
+    "pipp petals": "pipp petals",
+    "sunny starscout": "sunny starscout",
+    "zipp storm": "zipp storm",
 };
 
 export { ponyIni, ponyNames };
